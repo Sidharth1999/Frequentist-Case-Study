@@ -1,0 +1,17 @@
+How do you manually calculate a t-statistic without using a t-distribution table?
+The formula online uses a hypothetical population mean. What population mean should we use?
+The sample mean? But then the t-statistic will be 0? Then how does a distribution table
+calculate it? What does it use for the population mean?
+
+And how does the formula for converting z-score to t-scores make any sense?
+T = 10Z + 50 
+seems so arbitrary and doesnt even take into account the sample size, or degrees of freedom 
+Using this formula would make no sense in part A as it would give wildly different confidence
+intervals
+
+Why are there so many terms thrown around? T-score, T-value, T-statistic, T-test, T-distribution?
+Which ones are the same? Which ones are different?
+
+Why do we use s/root(n) in margin of error calculations? Does this have anything to do with the
+s/root(n) for the standard deviation of a mean of sample means? But we've only drawn one sample?
+
